@@ -1,0 +1,11 @@
+.total-hits {
+    margin-left: 600px;
+    color: green;
+    font-style: bold;
+}
+.details {
+    text-align: center;
+    border: blueviolet;
+    border-radius: 4px;
+    border-style: solid
+}

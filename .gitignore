@@ -3,6 +3,7 @@ bundle.js
 npm-debug.log
 .DS_Store
 /test
+src/components/redux-test.js
 
 # IntelliJ
 *.iml

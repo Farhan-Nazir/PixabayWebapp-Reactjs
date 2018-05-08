@@ -5,6 +5,7 @@ import _ from 'lodash';
 import SearchBar from './components/search-bar';
 import ImageList from './components/image-list';
 import ImageDetail from './components/image-detail';
+import ReduxTest from './components/redux-test';
 const AUTH_key = '5941074-00a3581ded0d2ad1a2547d589';
 //searchImages(AUTH_key, 'Roses').then((r) => console.log(r))
 class App extends Component{
@@ -25,6 +26,7 @@ class App extends Component{
         // const imagesSearch = (searchText) => {this.imagesSearch(searchText)}; // update on every key press
         return(
             <div>
+                <ReduxTest />
                 Pixabay Webapp
                 <SearchBar onSearch={imagesSearch}/>
                 <br/>

@@ -1,5 +1,6 @@
 # React Simple Pixabay Webapp
 
+Seacrhing images from Pixabay database.
 Just for learning purpose
 
 #### Familiar with Git?

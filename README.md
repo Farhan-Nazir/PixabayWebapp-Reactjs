@@ -15,5 +15,4 @@ To install dependencies type following commands.
 > npm start
 ```
 
-### Beginners 
-I am beginner of Reactjs and i love it.
+
